@@ -1,0 +1,9 @@
+<?php
+if(!empty ($_SESSION['auth']))
+{
+	
+}
+	else
+{
+	include 'noaut.php';
+}

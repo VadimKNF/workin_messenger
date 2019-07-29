@@ -3,7 +3,7 @@ simple messenger
 
 WORKS:<br>
 registration<br>
-authorisation<br>
+authorization<br>
 messaging (not nice)<br>
 logout.
 

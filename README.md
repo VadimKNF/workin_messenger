@@ -7,7 +7,7 @@ authorisation<br>
 messaging (not nice)<br>
 logout.
 
-DOESNT WORKS cuz Im lazy:<br>
+DOESNT WORK cuz Im lazy:<br>
 password encryption (WTF need to be added)<br>
 showing messages from database (its really bad rigth now)<br>
 if you try to registrate already existing user youll do it, cuz Im lazy (yes there will be a duplicate record in db)<br>
